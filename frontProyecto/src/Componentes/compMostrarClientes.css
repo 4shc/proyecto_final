@@ -1,0 +1,22 @@
+.clientesContainer{
+  margin-top: 2em;
+  margin-bottom: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+
+}
+.clientes{
+  color: #ffffff;
+}
+
+thead{
+  font-size: 1.2em;
+}
+.btn-add{
+ align-self:flex-end;
+ padding: 1.2em 2em 1.2em 2em !important;
+ margin-right: 15px;
+ 
+}
